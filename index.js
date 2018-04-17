@@ -83,7 +83,7 @@ else if (message.content === '.kill')           { message.reply             ('a 
 else if (message.content === '.kills')          { message.reply             ('a tué tout le monde: c\'est un bon psychopathe ') }
 else if (message.content === '.boss')           { message.channel.send      ('c\'est pas toi le boss, le patron ou le maître! Petit {user} c\'est mwa ahahahahahah ') }
 else if (message.content === '.maj')            { message.channel.send      ('un jour ou l\'autre j\'aurai une mise à jour :sob:') }
-else if (message.content === '.credit')         { message.channel.send      ('bot créé pas Timeur2.0#6659 avec l\'aide de Müulsh#4726 (désolé mes créateur sont des hommes ils ont oublier le féminin c\'est des connards et ils sont vulgaires et font des fautes d\'orthographe)') }
+else if (message.content === '.credit')         { message.channel.send      ('bot créé pas <@!385337893553438720> avec l\'aide de <@!317968962656796674> (désolé mes créateur sont des hommes ils ont oublier le féminin c\'est des connards et ils sont vulgaires et font des fautes d\'orthographe)') }
 else if (message.content === '.id')             { message.channel.send      ('salut moi je suis M. tib aquiv un bot super utile') }  
 else if (message.content === '.dico')           { message.channel.send      ('indisponible pour le moment #dico (et la chose que tu veux savoir ) = un lien vers la page web#') }
 
@@ -101,7 +101,6 @@ else if (message.content === 'M. Tib aquiv')    { message.channel.send      ('yo
 else if (message.content === 'Timeur2.0')       { message.channel.send      ('le grand dieu est arrivé sur Terre nous devons le vénéré et lui donné des cadeaux ') }
 else if (message.content === 'Müulsh')          { message.channel.send      ('le dieu de la méchanceté est arrivé attention il va vous trollé (attention au mecs qui n\'ont pas d\'humour lol) sinon c\'est tranche de rire à volonté .') }
 else if (message.content === '#dieuxestla')     { message.channel.send      ('Ah tiens on ma reconnu merci {user}') }
-else if (message.content === '...')             { message.reply             ('-_-') }
 })
 
 
